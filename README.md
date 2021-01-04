@@ -62,9 +62,7 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 
 
 </details>
-
-
-# [https://techkech.nl/](https://techkech.nl/)
+**Link to live demo:** https://weekly-nerd.netlify.app/
 
 ## Medium
 For better readability, I also put my 3 articles on Medium:
